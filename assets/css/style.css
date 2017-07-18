@@ -1,0 +1,51 @@
+
+body {
+	background-image: url(../images/hogwarts-express.jpg);
+	height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.jumbotron {
+	background-color: #660000;
+	border: 2px solid black;
+}
+
+#title {
+	color: #999900;
+	font-family: 'Bellefair', serif;
+	font-size: 98px;
+	font-variant: small-caps;
+}
+
+p {
+	color: black;
+	font-family: 'Bellefair', serif;
+}
+
+#platform {
+	font-size: 38px;
+	font-style: italic;
+}
+
+.panel > .panel-heading {
+	background-image: none;
+    background-color: #660000;
+    color: #C0C0C0;
+	border: none;
+}
+
+.btn {
+	background-image: none;
+    background-color: black;
+    color: #C0C0C0;
+	border: none;
+}
+
+.panel > .panel-body {
+	background-image: none;
+    background-color: #C0C0C0;
+    color: black;
+}
